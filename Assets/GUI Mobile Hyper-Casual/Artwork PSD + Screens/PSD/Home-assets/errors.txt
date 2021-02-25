@@ -1,0 +1,15 @@
+[2020-4-11 21:22:38] layer "Bouton pub.png copie": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Bouton Continue vert.png copie": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Bouton Continue vert.png copie": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Bouton Continue vert.png copie": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Bouton pub.png copie": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Bouton Continue vert.png copie 2": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Bouton Continue Jaune.png copie": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Case élement bloqué.png copie 5": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Case élement bloqué.png copie": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Case élement bloqué.png copie 4": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "+150": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-4-11 21:22:39] layer "Gift.png": Duplicate path: Gift.png
+[2020-4-11 21:22:39] layer "Barre level.png copie 2": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "Bouton PLay Jaune.png copie": Expected end of input but "c" found.
+[2020-4-11 21:22:39] layer "+150": Expected Either a default asset specification or a layer asset specification but "+" found.
