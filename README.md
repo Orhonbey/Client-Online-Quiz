@@ -1,6 +1,6 @@
 # Client-Online-Quiz
  Unity'de webSocket üzerinde Online Quiz Uygulaması . Node js server testi ve Unity üzerinde webSocket testi için hazırlanmış olan yaklaşık Server - Client geliştirmesi bir hafta süren bir çalışmadır.
- Uygulamadaki Özellikler
+ - Uygulamadaki Özellikler
  - mini lobby sistemi 
  - Oda kurup iki oyuncuyu aynı odada yarıştırma .
  - En hızlı doğru cevap veren oyuncuya puan verme puan sistemi (Server Side).
