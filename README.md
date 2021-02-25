@@ -12,7 +12,7 @@
  
 [Node js Server Buradan Ulaşa bilirsiniz !](https://github.com/sunal/Server-NodeJs-Online-Quiz)
 
-İçersinde UG-UI library side bulunuyor UG-UI merak eden arkadaşlar [Burdan Youtube videosunu izleye bilirler!](https://www.youtube.com/watch?v=5LBWgIa9qkY)
+İçersinde UG-UI library bulunuyor UG-UI merak eden arkadaşlar [Burdan Youtube videosunu izleye bilirler!](https://www.youtube.com/watch?v=5LBWgIa9qkY)
 
 Deneysel bir çalışmadır.
 Paylaşılma sebebi geliştirici arkadaşlara örnek olması sebebiyledir .
